@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.outer {
+    margin: 10%;
+}
+
+hr {
+    background-color: white;
+    height: 1px;
+    border: none;
+}
+
+p {
+    color: orangered;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    padding: 40px;
+}
+
+.download {
+    width: fit-content;
+    height: fit-content;
+}
